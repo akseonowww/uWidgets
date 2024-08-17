@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/43f4ae91-c0a7-4e9d-b990-708ff9d174fd)## uWidgets
+## uWidgets
 
 <img src=".github/images/icon-light.png#gh-light-mode-only" width="120" alt="Logo" align="right">
 <img src=".github/images/icon-dark.png#gh-dark-mode-only" width="120" alt="Logo" align="right">
@@ -68,7 +68,7 @@
 ### Themes
 
 - ☀️ **Light** and 🌑 **Dark** theme support
-
+  
 - 💧 **Transparency** effects
 
 - 🎨 **Accent** color picker
